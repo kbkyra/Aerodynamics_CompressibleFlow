@@ -1,6 +1,8 @@
 # Aerodynamics_CompressibleFlow
 
-AEM 313: Aerodynamics, Fall 2020; AEM 413: Compressible Flow, Spring 2021
+AEM 313: Aerodynamics, Fall 2020
+
+AEM 413: Compressible Flow, Spring 2021
 
 #
 
